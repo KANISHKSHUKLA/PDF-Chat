@@ -1,6 +1,3 @@
-Here's a sample `README.md` for your PDF Chat project:
-
----
 
 # PDF Chat
 
@@ -35,7 +32,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pdf-chat.git
+   git clone https://github.com/your-username/pdf-chat.git](https://github.com/KANISHKSHUKLA/PDF-Chat.git
    cd pdf-chat
    ```
 
@@ -49,10 +46,7 @@ Ensure you have the following installed:
      ```bash
      .\env\Scripts\activate
      ```
-   - **Mac/Linux**:
-     ```bash
-     source env/bin/activate
-     ```
+
 
 4. Install the required dependencies:
    ```bash
